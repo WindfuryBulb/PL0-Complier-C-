@@ -1,0 +1,11 @@
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Release\WindowsFormsCompilerMGR.exe.config
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Release\WindowsFormsCompilerMGR.exe
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Release\WindowsFormsCompilerMGR.pdb
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.Form1.resources
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.Properties.Resources.resources
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.csproj.GenerateResource.Cache
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.exe
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.pdb
+D:\桌面备份_20170513\14211076-马国瑞-PL0编译系统大作业\14211076-马国瑞-PL0编译系统大作业\源代码\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Release\WindowsFormsCompilerMGR.exe.config
+D:\桌面备份_20170513\14211076-马国瑞-PL0编译系统大作业\14211076-马国瑞-PL0编译系统大作业\源代码\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.exe
+D:\桌面备份_20170513\14211076-马国瑞-PL0编译系统大作业\14211076-马国瑞-PL0编译系统大作业\源代码\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Release\WindowsFormsCompilerMGR.pdb

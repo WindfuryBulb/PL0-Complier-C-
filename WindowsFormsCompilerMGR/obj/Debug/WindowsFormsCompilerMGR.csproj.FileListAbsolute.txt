@@ -1,0 +1,9 @@
+c:\users\magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Debug\WindowsFormsCompilerMGR.exe.config
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Debug\WindowsFormsCompilerMGR.exe
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\bin\Debug\WindowsFormsCompilerMGR.pdb
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Debug\WindowsFormsCompilerMGR.csprojResolveAssemblyReference.cache
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Debug\WindowsFormsCompilerMGR.Form1.resources
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Debug\WindowsFormsCompilerMGR.Properties.Resources.resources
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Debug\WindowsFormsCompilerMGR.csproj.GenerateResource.Cache
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Debug\WindowsFormsCompilerMGR.exe
+C:\Users\Magry\documents\visual studio 2015\Projects\WindowsFormsCompilerMGR\WindowsFormsCompilerMGR\obj\Debug\WindowsFormsCompilerMGR.pdb
